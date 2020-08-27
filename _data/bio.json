@@ -1,119 +1,102 @@
 {
-  "basics": {
-    "name": "Jonathan Kan",
-    "label": "Shidler Undergraduate",
-    "picture": "https://jkan9.github.io/images/20200714_071831.jpg",
-    "email": "jkan9@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://jkan9.github.io",
-    "summary": "I am majoring in Mangement Information Systems at Shidler College of Business at the University of Hawaii at Manoa. I am expect to graduate in Fall 2021",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "jkan9",
-        "url": "http://github.com/jkan9"
-      },
-      {
-        "network": "linkedin",
-        "username": "jkan9",
-        "url": "http://linkedin.com/in/jonathan-kan-8aa9611b5/"
-      }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Coding",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Hiking",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Socializing",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Photography and Video Creator",
-      "level": "",
-      "keywords": [
-        "Photoshop",
-        "Premiere Pro",
-        "Lightroom",
-      ]
-    },
-    {
-      "name": "Bilingual",
-      "level": "",
-      "keywords": [
-        "I can understand and speak Cantonese",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information System (expected Fall, 2021)",
-      "studyType": "B.B.A",
-      "startDate": "2018-08-07",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Hamilton",
-      "position": "Librarian",
-      "website": "",
-      "startDate": "2018-12-15",
-      "endDate": "Present",
-      "summary": "Circulation for Fifth Floor",
-      "highlights": [
-        "Maintain and selves Hawaiian and Pacific books",
-        "Assist pateron with finding and checking out books"
-      ]
-    } 
-  ],
-  "volunteer": [
-    {
-      "organization": "RHS  Leo club",
-      "website": "https://rhsleoclub.weebly.com/",
-      "position": "Member",
-      "startDate": "2016-06-25",
-      "endDate": "Present",
-      "summary": "A community service club",
-      "highlights": [
-        "Clean up beach and parks",
-        "Help out in local community"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2018-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+	"basics": {
+		"name": "Jonathan Kan",
+		"label": "Shidler Undergraduate",
+		"picture": "https://jkan9.github.io/images/20200714_071831.jpg",
+		"email": "jkan9@hawaii.edu",
+		"phone": "808-333-4444",
+		"website": "https://jkan9.github.io",
+		"summary": "I am majoring in Mangement Information Systems at Shidler College of Business at the University of Hawaii at Manoa. I am expect to graduate in Fall 2021",
+		"location": {
+			"address": "",
+			"postalCode": "96822",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "jkan9",
+				"url": "http://github.com/jkan9"
+			},
+			{
+				"network": "linkedin",
+				"username": "jkan9",
+				"url": "http://linkedin.com/in/jonathan-kan-8aa9611b5/"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Coding",
+			"keywords": []
+		},
+		{
+			"name": "Hiking",
+			"keywords": []
+		},
+		{
+			"name": "Socializing",
+			"keywords": []
+		}
+	],
+	"skills": [{
+			"name": "Photography and Video Creator",
+			"level": "",
+			"keywords": [
+				"Photoshop",
+				"Premiere Pro",
+				"Lightroom"
+			]
+		},
+		{
+			"name": "Bilingual",
+			"level": "",
+			"keywords": [
+				"I can understand and speak Cantonese"
+			]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Management Information System (expected Fall, 2021)",
+		"studyType": "B.B.A",
+		"startDate": "2018-08-07",
+		"endDate": "Present",
+		"gpa": "",
+		"courses": []
+	}],
+	"work": [{
+		"company": "UH Manoa Hamilton",
+		"position": "Librarian",
+		"website": "",
+		"startDate": "2018-12-15",
+		"endDate": "Present",
+		"summary": "Circulation for Fifth Floor",
+		"highlights": [
+			"Maintain and selves Hawaiian and Pacific books",
+			"Assist pateron with finding and checking out books"
+		]
+	}],
+	"volunteer": [{
+		"organization": "RHS  Leo club",
+		"website": "https://rhsleoclub.weebly.com/",
+		"position": "Member",
+		"startDate": "2016-06-25",
+		"endDate": "Present",
+		"summary": "A community service club",
+		"highlights": [
+			"Clean up beach and parks",
+			"Help out in local community"
+		]
+	}],
+	"awards": [{
+		"title": "B+ Scholarship",
+		"date": "2018-Present",
+		"awarder": "State of Hawaii",
+		"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+	}],
+	"references": [{
+		"name": "Available upon request",
+		"reference": ""
+	}]
 }
